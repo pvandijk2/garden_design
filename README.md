@@ -9,19 +9,26 @@
     1. [Requirements](#FrontRequirements)
 
 ## Introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+We are looking for a landscape designer to help us get the most space and use out of our garden.  We have made an intial start at landscaping, but realized that without an overal plan, it quickly becomes difficult to prioritize and make decisions.
+
+We hope that by commissioning a front and back garden design, new ideas will be suggested and specific design and material choices will be made.
 
 ## Back Garden <a name="Back"></a>
-The first paragraph text
+The back garden will have a variety of uses - childrens play area, entertainment, vegetable area and space for a home office.
 
 ### Dimensions <a name="BackDimensions"></a>
-This is a sub paragraph, formatted in heading 3 style
+Width (by house): 12m
+Width (at end of garden): 11m
+Length (From dining room wall): 35m
+
+We maintain the southerly boundry fence.
+The northern boundry fence is maintained by our neighbours.
 
 ### Requirements <a name="BackRequirements"></a>
-This is a sub paragraph, formatted in heading 3 style
+
 
 ## Front Garden <a name="Front"></a>
-The second paragraph text
+This area will mainly be used for car and bike parking and making the house presentable
 
 ### Dimensions <a name="FrontDimensions"></a>
 This is a sub paragraph, formatted in heading 3 style
