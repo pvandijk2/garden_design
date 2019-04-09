@@ -27,27 +27,23 @@ We maintain the southerly boundry fence.
 The northern boundry fence is maintained by our neighbours.
 
 ### Requirements <a name="BackRequirements"></a>
-In order of priority
+In priority order
 
 #### Southside fence/Retaining wall
+#### Northside privacy plants
 #### Surface drainage channes for roof
-#### Patio/Entertaining area
-#### Raised garden beds
-#### Child climbing frame
+#### Child climbing frame + Wendy house
 #### Trampoline
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Flower beds
+#### Raised garden beds
+#### Patio/Entertaining area
+#### Tool Shed
+#### Green House
+#### Illuminated Garden Path
+#### Firewood storage for house fireplace
+#### BBQ area
+#### Water/electricity lines
+#### Garden Office
 
 ## Front Garden <a name="Front"></a>
 This area will mainly be used for car and bike parking and making the house presentable
@@ -55,13 +51,19 @@ This area will mainly be used for car and bike parking and making the house pres
 ### Dimensions <a name="FrontDimensions"></a>
 
 ### Requirements <a name="FrontRequirements"></a>
-In order of priority
+In priority order
+
+#### Surface drainage
+#### Car parking
+#### Grass area + fruit tree
+#### Northside retaining wall
+#### Secure covered bike storage
 
 ## Level of Service Required <a name="ServiceRequired"></a>
 The design would include:
-1. Areas that need to be leveled
+1. Areas that need to be leveled/landscaped
 2. Placement of all the structures
-3. Construction type and materials to be used for fences and retaining wall (e.g. retaining walls/fences)
-4. Construction type and materials to be used for pathways and entertaing areas (e.g. retaining walls/fences)
-5. Type of plants to use & grass to sow
+3. Construction type and materials to be used for fences and retaining wall
+4. Construction type and materials to be used for pathways and entertaining areas
+5. Type of plants/flowers to use & grass to sow
 6. DIY friendly materials/construction methods
