@@ -29,21 +29,21 @@ The northern boundry fence is maintained by our neighbours.
 ### Requirements <a name="BackRequirements"></a>
 In priority order
 
-#### Southside fence/Retaining wall
-#### Northside privacy plants
-#### Surface drainage channes for roof
-#### Child climbing frame + Wendy house
-#### Trampoline
-#### Flower beds
-#### Raised garden beds
-#### Patio/Entertaining area
-#### Tool Shed
-#### Green House
-#### Illuminated Garden Path
-#### Firewood storage for house fireplace
-#### BBQ area
-#### Water/electricity lines
-#### Garden Office
+1. #### Southside fence/Retaining wall
+1. #### Northside privacy plants
+1. #### Surface drainage channes for roof
+1. #### Child climbing frame + Wendy house
+1. #### Trampoline
+1. #### Flower beds
+1. #### Raised garden beds
+1. #### Patio/Entertaining area
+1. #### Tool Shed
+1. #### Green House
+1. #### Illuminated Garden Path
+1. #### Firewood storage for house fireplace
+1. #### BBQ area
+1. #### Water/electricity lines
+1. #### Garden Office
 
 ## Front Garden <a name="Front"></a>
 This area will mainly be used for car and bike parking and making the house presentable
@@ -53,11 +53,11 @@ This area will mainly be used for car and bike parking and making the house pres
 ### Requirements <a name="FrontRequirements"></a>
 In priority order
 
-#### Surface drainage
-#### Car parking
-#### Grass area + fruit tree
-#### Northside retaining wall
-#### Secure covered bike storage
+1. #### Surface drainage
+1. #### Car parking
+1. #### Grass area + fruit tree
+1. #### Northside retaining wall
+1. #### Secure covered bike storage
 
 ## Level of Service Required <a name="ServiceRequired"></a>
 The design would include:
