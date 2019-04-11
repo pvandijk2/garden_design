@@ -22,8 +22,11 @@ We hope that by commissioning a front and back garden design, new ideas will be 
 The back garden will have a variety of uses - childrens play area, entertainment, vegetable area and space for a home office.
 
 ### Dimensions <a name="BackDimensions"></a>
+
 Width (by house): 11.35m
+
 Width (at end of garden): 10m
+
 Length (From dining room wall): 35.08m
 
 We maintain the southerly boundary fence.
@@ -55,6 +58,7 @@ This area will mainly be used for car/bike parking and making the house presenta
 
 ### Dimensions <a name="FrontDimensions"></a>
 Width: 12.5m
+
 Length (from bedroom): 9.2m
 
 ### Requirements <a name="FrontRequirements"></a>
