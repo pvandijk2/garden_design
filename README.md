@@ -16,6 +16,9 @@ We are looking for a landscape designer to help us get the most space and use ou
 We hope that by commissioning a front and back garden design, new ideas will be suggested and specific design and material choices will be made.
 
 ## Back Garden <a name="Back"></a>
+![FromBack](From_Back.jpg)
+![ToBackFromHouse](To_Back2.jpg)
+
 The back garden will have a variety of uses - childrens play area, entertainment, vegetable area and space for a home office.
 
 ### Dimensions <a name="BackDimensions"></a>
@@ -46,6 +49,8 @@ In priority order
 1. #### Garden Office
 
 ## Front Garden <a name="Front"></a>
+![Front](Front_Garden.png)
+
 This area will mainly be used for car/bike parking and making the house presentable.
 
 ### Dimensions <a name="FrontDimensions"></a>
