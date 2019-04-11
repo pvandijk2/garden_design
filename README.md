@@ -11,7 +11,7 @@
 4. [Level of Service Required](#ServiceRequired)    
 
 ## Introduction <a name="introduction"></a>
-We are looking for a landscape designer to help us get the most space and use out of our garden.  We have made an initial start at landscaping, but realized that without an overall plan, it quickly becomes difficult to prioritize and make decisions.
+We are looking for a landscape designer to help us get the most space and use out of our 490 square meter garden.  We have made an initial start at landscaping, but realized that without an overall plan, it quickly becomes difficult to prioritize and make decisions.
 
 We hope that by commissioning a front and back garden design, new ideas will be suggested and specific design and material choices will be made.
 
@@ -22,6 +22,7 @@ We hope that by commissioning a front and back garden design, new ideas will be 
 The back garden will have a variety of uses - childrens play area, entertainment, vegetable area and space for a home office.
 
 ### Dimensions <a name="BackDimensions"></a>
+Area: 374.4 square meters
 
 Width (by house): 11.35m
 
@@ -57,6 +58,8 @@ In priority order
 This area will mainly be used for car/bike parking and making the house presentable.
 
 ### Dimensions <a name="FrontDimensions"></a>
+Area: 115 square meters
+
 Width: 12.5m
 
 Length (from bedroom): 9.2m
