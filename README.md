@@ -75,7 +75,7 @@ In priority order
 1. #### Secure covered bike storage
 
 ## Level of Service Required <a name="ServiceRequired"></a>
-The design would include:
+The design plan would include:
 1. Areas that need to be leveled/landscaped
 2. Placement of all the structures
 3. Construction type and materials to be used for fences and retaining wall
