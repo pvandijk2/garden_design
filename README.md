@@ -38,7 +38,7 @@ In priority order
 
 1. #### Southside fence/Retaining wall
 1. #### Northside privacy plants
-1. #### Surface drainage channels for roof
+1. #### Surface drainage channels for roof rain water
 1. #### Child climbing frame + Wendy house
 1. #### Trampoline
 1. #### Flower beds
@@ -67,7 +67,7 @@ Length (from bedroom): 9.2m
 ### Requirements <a name="FrontRequirements"></a>
 In priority order
 
-1. #### Surface drainage
+1. #### Surface drainage of roof rain water
 1. #### Car parking
 1. #### Grass area + fruit tree
 1. #### Northside retaining wall
