@@ -1,4 +1,4 @@
-# Garden Design
+# Garden Transformation
 # Table of contents
 1. [Introduction](#introduction)
 2. [Back Garden](#Back)
