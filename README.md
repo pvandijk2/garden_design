@@ -38,7 +38,8 @@ In priority order
 
 1. #### Southside fence/Retaining wall
 1. #### Northside privacy plants
-1. #### Surface drainage channels for roof rain water
+1. #### Transition from house to garden i.e. how to manage/present height change
+1. #### Surface drainage channels for roof rain water away from house
 1. #### Child climbing frame + Wendy house
 1. #### Trampoline
 1. #### Flower beds
@@ -80,4 +81,4 @@ The design would include:
 3. Construction type and materials to be used for fences and retaining wall
 4. Construction type and materials to be used for pathways and entertaining areas
 5. Type of plants/flowers to use & grass to sow
-6. DIY friendly materials/construction methods
+6. Advice on DIY friendly materials/construction methods
