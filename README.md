@@ -43,7 +43,7 @@ In priority order
 1. #### Transition from house to garden i.e. how to manage/present height change
 1. #### Surface drainage channels for roof rain water away from house
 1. #### Child climbing frame + Wendy house
-1. #### Trampoline
+1. #### Sunken Trampoline
 1. #### Flower beds
 1. #### Raised garden beds
 1. #### Patio/Entertaining area
