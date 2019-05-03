@@ -15,6 +15,8 @@ We are looking for a landscape designer to help us get the most space and use ou
 
 We hope that by commissioning a front and back garden design, new ideas will be suggested and specific design and material choices will be made.
 
+A [pinterest board](https://www.pinterest.co.uk/dijk0381/trampoline/) has been created which illustrates the ideas we have.
+
 ## Back Garden <a name="Back"></a>
 ![FromBack](From_Back.jpg)
 ![ToBackFromHouse](To_Back2.jpg)
